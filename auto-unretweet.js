@@ -7,7 +7,7 @@
  * ⚠️ Use this responsibly. Twitter may restrict accounts using automation.
  * 
  * Instructions:
- * 1. Open your Twitter profile or timeline.
+ * 1. Open your Twitter profile or timeline..
  * 2. Open Developer Tools (F12), go to the Console tab.
  * 3. Paste and run this script.
  * 4. To stop, simply refresh the page.
