@@ -1,21 +1,3 @@
-/**
- * Twitter Auto-Unretweet Script
- * --------------------------------
- * Automatically unretweets tweets from your timeline or profile page.
- * Handles hidden retweet states by re-retweeting first when necessary.
- *
- * ⚠️ Use this responsibly. Twitter may restrict accounts using automation.
- * 
- * Instructions:
- * 1. Open your Twitter profile or timeline..
- * 2. Open Developer Tools (F12), go to the Console tab.
- * 3. Paste and run this script.
- * 4. To stop, simply refresh the page.
- * 
- * Author: [Your Name or GitHub]
- * License: MIT
- */
-
 const wait = (ms) => new Promise((res) => setTimeout(res, ms));
 
 /**
